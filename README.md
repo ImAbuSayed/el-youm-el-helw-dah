@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين في ليلي الطويل
+> أشواق قلبي تسري كالدليل
+> في بحر الحب نبحث عن سبيل
+> تجمعنا الأقدار والمستحيل
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
