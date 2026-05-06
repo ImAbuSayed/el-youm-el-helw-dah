@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-youm-el-helw-dah/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: El Youm El Helw Dah](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
