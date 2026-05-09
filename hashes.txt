@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Youm El Helw Dah
+
+This log tracks the cryptographic history and versioning for the song **El Youm El Helw Dah** (el-youm-el-helw-dah).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:34:56.356654 | `v1` | `df170337345316a76c476ca62333c93cd1803a73dc381288b1e0e356c9ad66e9` | `6b6d4a9f3c215152230dfc8c26f9c9a7bfdbdae0773c52603407511a8514306b` | `2026-05-09_el-youm-el-helw-dah-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
